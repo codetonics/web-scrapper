@@ -1,0 +1,23 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "A headless chrome based web scapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:codetonics/web-scrapper.git"
+  },
+  "keywords": [
+    "Web Scrapper",
+    "Headless Chrome"
+  ],
+  "author": "Jayesh Panchal (jspanchal@ymail.com) [http://codetonics.com]",
+  "license": "MIT",
+  "homepage": "https://github.com/codetonics/web-scrapper",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
